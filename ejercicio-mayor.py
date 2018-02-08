@@ -1,5 +1,6 @@
 #coding: utf8
 #08/02/2018
+#Carlos León Olivares
 
 numero1=input ("Indique el primer número ")
 numero2=input ("Indique el segundo número ")
