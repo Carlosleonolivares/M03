@@ -1,5 +1,6 @@
 #coding: utf8
 #08/02/2018
+#Carlos León Olivares
 
 numero=input ('Introduce un número ')
 if (numero%2==0) or (numero>-10 and numero<40) or (numero<0):
