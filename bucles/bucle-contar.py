@@ -1,14 +1,21 @@
-#coding: utf8
+# coding: utf8
+# Carlos león olivares
+# 12/03/2018
 
-salir="N"
-valor1=1
-valor2=input("Hasta que numero quieres contar? ")
+import os
+os.system("clear")
 
-
-while(salir=="N"):
-	print "Número",valor1
+salir = "N"
+valor=1
+suma=0
+while ( salir=="N" ):
 	
+	print (numero)
+
+
+	suma=suma+valor
+	valor=valor+1
 	
-	if (valor1 > valor2) or (valor<=0):
-		salir = "S"
-valor1 = valor1 +1
+	if (valor>5):
+    	    salir = "S"
+            print (suma)
