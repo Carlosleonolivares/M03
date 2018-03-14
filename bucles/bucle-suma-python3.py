@@ -1,10 +1,10 @@
 #coding: utf8
 #Carlos León
 
-salir = "N"
-numero = 1
-maximo = 5
-suma = 0
+salir="N"
+numero=1
+maximo=input("Hasta que numero quieres contar? ")
+suma=0
 
 while (salir=="N"):
     if(numero%==2):
