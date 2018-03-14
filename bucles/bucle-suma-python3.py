@@ -1,5 +1,5 @@
 #coding: utf8
-#Inicializaciones
+#Carlos León
 
 salir = "N"
 numero = 1
