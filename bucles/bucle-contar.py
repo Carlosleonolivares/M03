@@ -7,15 +7,16 @@ os.system("clear")
 
 salir = "N"
 valor=1
+maximo=5
 suma=0
 while ( salir=="N" ):
 	
-	print (numero)
+	print (valor)
 
 
 	suma=suma+valor
 	valor=valor+1
 	
-	if (valor>5):
+	if (valor>maximo):
     	    salir = "S"
             print (suma)
